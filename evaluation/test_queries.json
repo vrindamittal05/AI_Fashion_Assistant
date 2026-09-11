@@ -1,0 +1,24 @@
+[
+  {
+    "query": "I need an elegant outfit for a wedding under 5000",
+    "expected_occasion": "wedding",
+    "expected_style": "elegant",
+    "budget": 5000
+  },
+  {
+    "query": "Give me something minimal and formal for office",
+    "expected_occasion": "office",
+    "expected_style": "minimal"
+  },
+  {
+    "query": "I want a trendy black outfit for a party under 3000",
+    "expected_occasion": "party",
+    "expected_style": "trendy",
+    "budget": 3000
+  },
+  {
+    "query": "Suggest a traditional outfit for a festive occasion",
+    "expected_occasion": "festive",
+    "expected_style": "traditional"
+  }
+]
